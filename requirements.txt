@@ -3,3 +3,4 @@ colorama
 requests
 python-dotenv
 pyowm
+asyncio

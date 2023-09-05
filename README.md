@@ -11,6 +11,7 @@
   - Recommended version [3.10.2](https://www.python.org/downloads/release/python-3102/)
 - A Discord server that you own.
   - Make sure to "enable community" in your server if you haven't already! (`Settings` -> `Enable Community`)
+- An OpenWeather (Free) API KEY (create a free account on the [OpenWeatherMap](https://openweathermap.org/api) website and get a key (`Account` -> `My API Keys` -> `Generate a key`))
 
 # Installation 🚀
 ## Step 01 :
